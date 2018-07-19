@@ -14,7 +14,7 @@
 cp single-instance.yml instance-and-route53.yml
 ```
 
-```single-instance.yml``` 안에 ```Resources``` 파트에 아래 내용을 추가해줍니다.
+```instance-and-route53.yml``` 안에 ```Resources``` 파트에 아래 내용을 추가해줍니다.
 
 ```yaml
 Resources:
