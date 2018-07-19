@@ -106,6 +106,8 @@ Parameters:
 
 ## 2. 스택 띄우기
 
+```Ref``` 로 지정한 값들을 CLI 파라미터로 받는 것을 확인할 수 있습니다.
+
 ```sh
 $ aws cloudformation create-stack \
     --template-body file://single-instance.yml \
@@ -115,7 +117,7 @@ $ aws cloudformation create-stack \
 
 ## 3. 스택 삭제하기
 
-불필요한 과금방지를 위해 생성한 스택을 삭제한다.
+불필요한 과금방지를 위해 생성한 스택을 삭제합니다.
 
 ```sh
 $ aws cloudformation delete-stack \
