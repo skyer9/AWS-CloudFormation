@@ -8,3 +8,4 @@
 
 ## 1. [EC2 인스턴스 생성하기](create_ec2_instance.md)
 
+## 2. [EC2 인스턴스에 Route53 추가하기](add_route53_to_ec2_instance.md)
