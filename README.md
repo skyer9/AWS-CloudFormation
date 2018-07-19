@@ -8,6 +8,10 @@
 
 - https://blog.boltops.com/2017/03/20/a-simple-introduction-to-aws-cloudformation-part-2-ec2-instance-and-route53
 
+- https://blog.boltops.com/2017/03/24/a-simple-introduction-to-aws-cloudformation-part-3-updating-a-stack
+
 ## 1. [EC2 인스턴스 생성하기](create_ec2_instance.md)
 
 ## 2. [EC2 인스턴스에 Route53 추가하기](add_route53_to_ec2_instance.md)
+
+## 3. [스택 업데이트하기](update_stack.md)
