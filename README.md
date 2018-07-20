@@ -14,6 +14,8 @@
 
 - https://github.com/tongueroo/lono
 
+- https://blog.boltops.com/2017/05/31/autoscaling-cloudformation-template-with-lono
+
 ## 1. [EC2 인스턴스 생성하기](create_ec2_instance.md)
 
 ## 2. [EC2 인스턴스에 Route53 추가하기](add_route53_to_ec2_instance.md)
@@ -23,3 +25,5 @@
 ## 4. [Change Sets = Dry Run Mode](change_set.md)
 
 ## 5. [lono 설치 및 실행하기](install_lono.md)
+
+## 6. [VPC 구성하기](create_vpc.md)
