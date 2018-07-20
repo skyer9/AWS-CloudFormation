@@ -14,7 +14,7 @@
 
 - https://github.com/tongueroo/lono
 
-- https://blog.boltops.com/2017/05/31/autoscaling-cloudformation-template-with-lono
+- https://docs.aws.amazon.com/codebuild/latest/userguide/cloudformation-vpc-template.html
 
 ## 1. [EC2 인스턴스 생성하기](create_ec2_instance.md)
 
